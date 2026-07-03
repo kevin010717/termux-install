@@ -25,7 +25,7 @@ bash -c "$(curl -fsSL https://ghfast.top/https://github.com/kevin010717/workspac
 * [ ] zellij tmux的rust实现
 * [ ] ratatui其他项目
 
-# 写一个可用的module
+# 按键模块
 # 双击长按事件
 # 截图功能
 # 去广告
@@ -35,8 +35,6 @@ bash -c "$(curl -fsSL https://ghfast.top/https://github.com/kevin010717/workspac
 自动旋转屏幕
 
 加入冻结启动卸载确认的快捷键
-
-app 启动失败
 
 termux-boot开机启动 代理服务 实体按键服务 
 
