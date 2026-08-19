@@ -32,7 +32,7 @@ bash -c "$(curl -fsSL https://ghfast.top/https://github.com/kevin010717/workspac
 # 侧感功能
 # 指纹解锁
 
-自动旋转屏幕 旋转屏幕后布局自适应
+启动应用后自动旋转屏幕功能开启！ 旋转屏幕后布局自适应
 
 加入冻结启动卸载确认的快捷键
 
